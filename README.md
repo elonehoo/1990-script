@@ -9,7 +9,7 @@ Make your Github history back to 1800.
 Run the following script
 
 ```bash
-$ sh -c "$(curl -fsSL https://raw.github.com/xiaoxunyao/1800-script/master/index.sh)"
+$ sh -c "$(curl -fsSL https://raw.github.com/xiaoxunyao/1800-script/main/index.sh)"
 ```
 
 Enter you Github username and you are done :)
