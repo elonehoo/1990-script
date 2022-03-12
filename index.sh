@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 _() {
-  YEAR="1800"
+  YEAR="1990"
   echo "Github Username: "
   read -r USERNAME
 
